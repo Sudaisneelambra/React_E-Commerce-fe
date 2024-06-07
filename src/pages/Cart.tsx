@@ -1,6 +1,9 @@
+import CartItems from "../components/CartItems/CartItems"
+
 function Cart(){
 
     return <>
+        <CartItems/>
     </>
 }
 

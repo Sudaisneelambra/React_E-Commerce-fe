@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import './Newolloctions.css'
-import new_collection from '../assets/newcollections'
+import new_collection from '../assets/newcollections';
 import Item from '../items/item'
 
 function NewColloctions(){
